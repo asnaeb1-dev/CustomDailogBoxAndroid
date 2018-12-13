@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomDailog</string>
+    <string name="enter_email">Enter email</string>
+    <string name="enter_password">Enter password</string>
+</resources>
